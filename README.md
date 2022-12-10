@@ -1,6 +1,6 @@
-Digital clock
 
-If you'd like to use this extension for yourself, here's how you will need to set it up:
+
+**If you'd like to use these extensions for yourself, here's how you will need to set it up:**
 
 Clone/download this repository.
 If you'd like to further customize it or make any other edits to the page, you will likely want to do that in either the popup.html file or the script.js file.
